@@ -2,15 +2,13 @@
 
 This project is a simplified clone of [Monday.com](https://monday.com/). It allows teams to collaborate on projects, where you can group tasks and track the status of each task.
 
-Free free to test out our app at https://jeffreyquan.github.io/tuesday-client/#/.
-
-The server repository is located at https://github.com/jeffreyquan/tuesday-server.
+Made by Kevinbruyne
 
 ## Getting started
 
 #### Using our site
 
-1. Create an account at https://jeffreyquan.github.io/tuesday-client/#/
+1. Create an account
 2. Create a new project.
 3. Ask your team members to sign up.
 4. Invite your team members using the emails they used to sign up.
@@ -83,20 +81,4 @@ This was our third project at General Assembly's Software Engineering Immersive 
 * **Inbox** - allow users to send messages to each other
 * **Chat** - allow a group chat feature for teams working on the same project
 
-## Screenshots
 
-
-#### Home
-![Home Page](/screenshots/tuesday-home.png)
-
-#### Sample Project 1
-![Project 1 - Wallstreet Hub](/screenshots/tuesday-project-1.png)
-
-#### Instructions
-![Instructions](/screenshots/instructions.png)
-
-#### Sample Project 2
-![Project 2 - Local Food Festival](/screenshots/tuesday-project-2.png)
-
-#### Team - Members and Invitees
-![Team Members and Invitees](/screenshots/tuesday-team.png)
